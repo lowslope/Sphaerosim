@@ -1,0 +1,28 @@
+VTune/
+Advisor/
+Inspector/
+scorep-*/
+bin/
+output*.txt
+out[0-9]/
+Sphaerosim*.txt
+Sphaerosim*.html
+2019[0-9][0-9][0-9][0-9]_1*/
+
+out/test/Step_Component_2um_Ahtermal1_diffNuc_Cath1.5_Boundary0/*
+out/ref/Step_Component_2um_Ahtermal1_diffNuc_Cath1.5_Boundary0/*
+!out/test/Step_Component_2um_Ahtermal1_diffNuc_Cath1.5_Boundary0/result.csv
+!out/ref/Step_Component_2um_Ahtermal1_diffNuc_Cath1.5_Boundary0/result.csv
+out/rm/
+
+
+# Created by https://www.gitignore.io/api/c++,clion,linux
+# Edit at https://www.gitignore.io/?templates=c++,clion,linux
+
+
+### CLion ###
+
+.idea/
+
+# CMake
+cmake-build-*/

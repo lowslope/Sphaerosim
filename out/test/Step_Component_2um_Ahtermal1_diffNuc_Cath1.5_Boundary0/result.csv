@@ -1,0 +1,27 @@
+Folder;JobID;Start;End;Diff;Error;Cores;Mem_req;Mem_used;Elementsize;Cache;Success;Additional Info;
+119624_1;119624;Mon Feb  4 09:10:57 CET 2019;Mon Feb  4 09:13:41 CET 2019;0d 0h 2m 44s;;24;20G;;1e-4;0;no;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+119637_1;;;;;;;;;1e-5;0;no;
+119637_1_1;;;;;;;;;1e-5;0;no;
+119637_1_2;11937;Tue Feb 12 06:29:40 CET 2019;Wed Feb 13 17:22:33 CET 2019;1d 10h 52m 53s;;48;50G;1589.0 MB;1e-5;0;yes;idk parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+119751_1;119751;Mon Feb  4 13:42:59 CET 2019;Mon Feb  4 13:53:22 CET 2019;0d 0h 10m 23s;;24;20G;3106.5 MB;1e-5;-1;yes;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+120023_1;120023;Mon Feb  4 14:18:39 CET 2019;;;slurmstepd: error: *** JOB 120023 ON ncm0324 CANCELLED AT 2019-02-04T14:48:54 DUE TO TIME LIMIT ***;24;20G;;1e-5;0;no;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+120396_1;120396;Mon Feb  4 16:08:37 CET 2019;;;slurmstepd: error: *** JOB 120396 ON ncm0320 CANCELLED AT 2019-02-04T16:38:26 DUE TO TIME LIMIT ***;1;20G;;1e-4;0;no;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+188517_1;188517;Mon Feb 18 10:02:10 CET 2019;;;slurmstepd: error: *** JOB 188517 ON ncm0148 CANCELLED AT 2019-02-18T11:00:49 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;without parallelesiation of loop in Element::ChangeCellToSolid
+194666_1;194666;Tue Feb 19 10:23:55 CET 2019;;;Spherulite ID:1417slurmstepd: error: *** JOB 194666 ON ncm0022 CANCELLED AT 2019-02-19T10:44:19 ***;24;50G;;2e-6;0;no;with parallelesiation of loop in Element::ChangeCellToSolid
+197186_1;197186;Tue Feb 19 14:02:09 CET 2019;Tue Feb 19 14:04:36 CET 2019;0d 0h 2m 27s;;1;20G;;1e-4;0;no;VTune Threading analysis
+197246_1;197246;Tue Feb 19 14:25:37 CET 2019;;;    22000 ms of the calculation done (32.06% solid                                                                                                                                                                                                     ,61683 slurmstepd: error: *** JOB 197246 ON ncm0288 CANCELLED AT 2019-02-19T15:24:25 DUE TO TIME LIMIT ***;1;20G;;1e-5;0;no;VTune Threading analysis
+197259_1;197259;Tue Feb 19 14:43:25 CET 2019;;;slurmstepd: error: *** JOB 197259 ON ncm0008 CANCELLED AT 2019-02-19T16:45:59 ***;24;50G;;2e-6;0;no;VTune
+197274_1;197274;Tue Feb 19 14:58:17 CET 2019;;;slurmstepd: error: *** JOB 197274 ON ncm0184 CANCELLED AT 2019-02-19T15:56:25 DUE TO TIME LIMIT ***;1;20G;;1e-5;0;no;VTune Threading analysis
+198181_1;198181;Tue Feb 19 16:37:29 CET 2019;Tue Feb 19 18:29:33 CET 2019;0d 1h 52m 4s;;1;50G;;1e-5;0;yes;PerfReport
+198192_1;198192;Tue Feb 19 16:43:58 CET 2019;Tue Feb 19 18:25:30 CET 2019;0d 1h 41m 32s;;1;50G;1663.3 MB;1e-5;0;yes;guided scheduling
+198759_1;198759;Tue Feb 19 16:51:18 CET 2019;Tue Feb 19 18:31:42 CET 2019;0d 1h 40m 24s;;1;50G;;1e-5;0;yes;VTune
+198952_1;198952;Tue Feb 19 16:54:29 CET 2019;Tue Feb 19 18:35:52 CET 2019;0d 1h 41m 23s;;1;50G;1663.4 MB;1e-5;0;yes;dynamic scheduling
+198959_1;198959;Tue Feb 19 17:02:15 CET 2019;Tue Feb 19 18:43:59 CET 2019;0d 1h 41m 44s;;1;50G;1620.5 MB;1e-5;0;yes;dynamic                                                                                                                                                                           ,50 scheduling
+199837_1;199837;Wed Feb 20 08:46:03 CET 2019;;;;1;50G;;1e-5;0;yes;static scheduling
+199869_1;199869;Wed Feb 20 09:23:20 CET 2019;Wed Feb 20 10:00:13 CET 2019;0d 0h 36m 53s;;24;50G;;1e-5;0;yes;VTune(static scheduling)
+199899_1;199899;Wed Feb 20 09:25:34 CET 2019;Wed Feb 20 09:39:04 CET 2019;0d 0h 13m 30s;;24;50G;1743.5 MB;1e-5;0;yes;static scheduling
+199901_1;199901;Wed Feb 20 09:27:11 CET 2019;Wed Feb 20 09:40:04 CET 2019;0d 0h 12m 53s;;24;50G;1738.8 MB;1e-5;0;yes;guided scheduling
+199902_1;199902;Wed Feb 20 09:28:29 CET 2019;Wed Feb 20 09:41:20 CET 2019;0d 0h 12m 51s;;24;50G;1734.2 MB;1e-5;0;yes;dynamic scheduling
+199904_1;199904;Wed Feb 20 09:42:31 CET 2019;;;slurmstepd: error: *** JOB 199904 ON ncm0359 CANCELLED AT 2019-02-20T14:40:08 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;dynamic                                                                                                                          ,50 scheduling
+211458_1;211458;Thu Feb 21 15:57:21 CET 2019;Thu Feb 21 16:16:05 CET 2019;0d 0h 18m 44s;;24;50G;;1e-5;0;yes;test after optimisation in WriteResultEvent::WriteVtkFile
+211961_1;211961;Thu Feb 21 16:16:13 CET 2019;Thu Feb 21 16:20:22 CET 2019;0d 0h 4m 9s;;24;50G;;1e-5;0;no;test after optimisation in WriteResultEvent::WriteVtkFile with parallel for

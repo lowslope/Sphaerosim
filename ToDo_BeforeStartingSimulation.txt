@@ -1,0 +1,5 @@
+1. Change the address of the XML file in Batch file
+2. Change the adresss of the filling siulation file in the XML file:
+<files>[to be added]\Filling_Data.4250\Data.4250.Side.Fill.txt;[to be added]\Filling_Data.4250\Data.4250.Side.Hold.txt;[to be added]\Filling_Data.4250\Data.4250.Side.Cool.txt</files>
+3. Set the adress for output files in the XML file:
+<output_folder>[to be added]</output_folder>

@@ -1,0 +1,87 @@
+<SphaeroSim>
+    <Material id="PP505P">
+        <density>761</density>
+        <molecular_weight_entanglement>6850</molecular_weight_entanglement>
+        <T_m0>467.15</T_m0>
+        <T_inf>231.15</T_inf>
+        <enthalpy>1.4e8</enthalpy>
+        <DisengagementTime type="WLF">
+            <D1>2.64e19</D1>
+            <D2>233.15</D2>
+            <A1>44.335</A1>
+            <A2>51.6</A2>
+        </DisengagementTime>
+    </Material>
+    <Simulation mode="ComsolInput" cell_size_m="2e-6" csv_separator=";" material_id="PP505P">
+        <name>Step_Component_2um_Ahtermal1_diffNuc_Cath1.5_Boundary0</name>
+        <output_folder>C:\Users\chris\code\sphaerosim\sphaerosim_hiwi\out</output_folder>
+        <create_subfolder>1</create_subfolder>
+        <temporal_interpolation>Spline</temporal_interpolation>
+        <spatial_interpolation>Spline</spatial_interpolation>
+        <noslip_neighbourhood>0;0;0;0;0;0</noslip_neighbourhood>
+        <integral_error>1e-3</integral_error>
+        <Growthmodel growth_type="Ray-tracing" type="HM">
+            <G0>4.36e8</G0>
+            <U0>17200</U0>
+            <K_g>2.7979</K_g>
+        </Growthmodel>
+        <Nucleationmodel type="HDL">
+            <C>3.0e54</C>
+            <U>76800</U>
+            <K>3.6e11</K>
+            <n>1</n>
+            <enthalpy_correction>1</enthalpy_correction>
+            <athermal>1</athermal>
+            <C_ath>1.5e-28</C_ath>
+        </Nucleationmodel>
+        <calculate_flow_energy>0</calculate_flow_energy>
+        <timestep>0.1</timestep>
+        <files>
+            C:\Users\chris\code\sphaerosim\sphaerosim_hiwi\Filling_Data.4250\Data.4250.Side.Cool.txt
+        </files>
+        <CoordinateXIdentifier>X</CoordinateXIdentifier>
+        <CoordinateYIdentifier>Y</CoordinateYIdentifier>
+        <CoordinateZIdentifier>Z</CoordinateZIdentifier>
+        <VelocityXIdentifier>XVelocitycomponent</VelocityXIdentifier>
+        <VelocityYIdentifier>YVelocitycomponent</VelocityYIdentifier>
+        <VelocityZIdentifier>ZVelocitycomponent</VelocityZIdentifier>
+        <TemperatureIdentifier>Temperature</TemperatureIdentifier>
+        <LevelsetIdentifier>Levelsetvariable</LevelsetIdentifier>
+        <ResultStep type="Time" stepsize="1"/>
+        <StatisticsStep type="Time" stepsize="0.5"/>
+        <cache_convert_temperature>1</cache_convert_temperature>
+        <cache_convert_velocity>1</cache_convert_velocity>
+        <VTKResults>
+            <subfolder>1</subfolder>
+            <all_result_points>1</all_result_points>
+            <absolute>1</absolute>
+            <checkboundarylayer>1</checkboundarylayer>
+            <!--requested outputs-->
+            <temperature>1</temperature><!--DisengagementTime is same coupled with temperature-->
+            <aspectratio>1</aspectratio>
+            <crystallizationtime>1</crystallizationtime>
+            <phasestate>1</phasestate>
+            <spheruliteid>1</spheruliteid>
+            <spherulitediameter>1</spherulitediameter>
+            <randomcolor>1</randomcolor>
+            <enthropychange>0</enthropychange>
+            <induction>1</induction>
+            <coolingrate>0</coolingrate>
+            <location>1</location>
+            <velocity>0</velocity>
+            <!--requested outputs-->
+        </VTKResults>
+        <NumericalOptions>
+            <cache_number_entries>0</cache_number_entries>
+            <cache_timeresolution>100.0</cache_timeresolution>
+            <fdm_timeresolution>100000.0</fdm_timeresolution>
+            <fdm_timestep>1e-3</fdm_timestep>
+            <threshold_pure_flow>5e-10</threshold_pure_flow>
+            <threshold_incompressibility>0.15</threshold_incompressibility>
+            <consider_pure_shear>1</consider_pure_shear>
+            <consider_pure_elongational>0</consider_pure_elongational>
+        </NumericalOptions>
+    </Simulation>
+</SphaeroSim>
+
+

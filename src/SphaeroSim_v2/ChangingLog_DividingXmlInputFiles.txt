@@ -1,0 +1,8 @@
+1. Define "const std::string& material_file" everywhere "parameter_file" exists
+2. Change the definition of the class "Application" in Application.h
+3. Declare "ParseMaterialFile" analogue to the "PasreParameterFile" but not defined
+4. Use "ParseMaterialFile" whereever "PasreParameterFile" exists
+4. Replace the "calibration_file_" with "calibration_file_parameter_"
+5. Replace the "calibration_file" with "calibration_file_parameter"
+6. Define the "calibration_file_material_" analogue to "calibration_file_parameter_"
+6. 

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Sphaerosim.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\Sphaerosim.dir/objects.a @CMakeFiles\Sphaerosim.dir\objects1.rsp
+C:\msys64\mingw64\bin\c++.exe  -fopenmp -static -I/opt/intel/vtune/XE2019-u02/vtune_amplifier_xe/include -O0 -g -inline-level=0 -Wl,--whole-archive CMakeFiles\Sphaerosim.dir/objects.a -Wl,--no-whole-archive -o Sphaerosim.exe -Wl,--out-implib,libSphaerosim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sphaerosim.dir\linkLibs.rsp

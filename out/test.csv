@@ -1,0 +1,225 @@
+Folder;JobID;Hostname;Start;End;Diff;Error;Cores;Mem_req;Mem_used;Elementsize;Cache;Success;Additional Info;
+1062633_1;1062633;ncm0930;Fri Mar 29 15:05:15 CET 2019;Fri Mar 29 15:15:07 CET 2019;0d 0h 9m 52s;;48;0G;;1e-5;0;yes;  Array ID:1 /var/spool/slurm/job1062633/slurm_script:41: bad option: -a (OK) Unloading intelmpi 2018.4.274
+1105463_1;1105463;nrm124;Sun Mar 31 23:46:07 CEST 2019;Mon Apr  1 00:00:09 CEST 2019;0d 0h 14m 2s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:11 clang
+1105464_1;1105464;ncm0007;Sun Mar 31 23:46:32 CEST 2019;Sun Mar 31 23:57:47 CEST 2019;0d 0h 11m 15s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:1 intel
+1105465_1;1105465;ncm0076;Sun Mar 31 23:48:25 CEST 2019;Sun Mar 31 23:58:22 CEST 2019;0d 0h 9m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:2 intel -inline-forceinline
+1105466_1;1105466;nrm008;Sun Mar 31 23:46:38 CEST 2019;Sun Mar 31 23:57:39 CEST 2019;0d 0h 11m 1s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:3 intel -xHOST
+1105467_1;1105467;nrm074;Sun Mar 31 23:47:11 CEST 2019;Mon Apr  1 00:01:09 CEST 2019;0d 0h 13m 58s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:4 intel -ipo
+1105470_1;1105470;nrm146;Sun Mar 31 23:46:10 CEST 2019;Sun Mar 31 23:58:51 CEST 2019;0d 0h 12m 41s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:7 gcc/8
+1105471_1;1105471;nrm118;Sun Mar 31 23:46:08 CEST 2019;Sun Mar 31 23:58:53 CEST 2019;0d 0h 12m 45s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:8 gcc/8 -Ofast
+1105472_1;1105472;nrm119;Sun Mar 31 23:46:09 CEST 2019;Sun Mar 31 23:58:06 CEST 2019;0d 0h 11m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:9 gcc/8 -march=native
+1105473_1;1105473;nrm122;Sun Mar 31 23:46:09 CEST 2019;Sun Mar 31 23:58:06 CEST 2019;0d 0h 11m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:10 gcc/8 -Ofast -march=native
+1113011_1;1113011;ncm0102;Tue Apr  2 08:30:16 CEST 2019;Tue Apr  2 08:44:07 CEST 2019;0d 0h 13m 51s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:11 clang
+1113012_1;1113012;ncm0870;Tue Apr  2 08:18:16 CEST 2019;Tue Apr  2 08:29:35 CEST 2019;0d 0h 11m 19s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:1 intel
+1113013_1;1113013;nrm012;Tue Apr  2 08:20:13 CEST 2019;Tue Apr  2 08:30:04 CEST 2019;0d 0h 9m 51s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:2 intel -inline-forceinline
+1113015_1;1113015;ncm0524;Tue Apr  2 08:25:03 CEST 2019;Tue Apr  2 08:36:00 CEST 2019;0d 0h 10m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:3 intel -xHOST
+1113016_1;1113016;ncm0854;Tue Apr  2 08:25:54 CEST 2019;Tue Apr  2 08:39:49 CEST 2019;0d 0h 13m 55s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:4 intel -ipo
+1113019_1;1113019;nrm072;Tue Apr  2 08:25:41 CEST 2019;Tue Apr  2 08:38:15 CEST 2019;0d 0h 12m 34s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:7 gcc/8
+1113020_1;1113020;ncm0861;Tue Apr  2 08:26:13 CEST 2019;Tue Apr  2 08:38:47 CEST 2019;0d 0h 12m 34s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:8 gcc/8 -Ofast
+1113021_1;1113021;ncm0226;Tue Apr  2 08:28:30 CEST 2019;Tue Apr  2 08:40:26 CEST 2019;0d 0h 11m 56s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:9 gcc/8 -march=native
+1113022_1;1113022;ncm0825;Tue Apr  2 08:28:25 CEST 2019;Tue Apr  2 08:40:22 CEST 2019;0d 0h 11m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:10 gcc/8 -Ofast -march=native
+1133175_1;1133175;ncm0663;Wed Apr  3 15:01:44 CEST 2019;Wed Apr  3 15:15:41 CEST 2019;0d 0h 13m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:11 clang
+1133242_1;1133242;ncm1013;Wed Apr  3 14:07:18 CEST 2019;Wed Apr  3 14:21:22 CEST 2019;0d 0h 14m 4s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:1 gcc/8 intel
+1133243_1;1133243;nrm039;Wed Apr  3 14:09:46 CEST 2019;Wed Apr  3 14:20:41 CEST 2019;0d 0h 10m 55s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:2 gcc/8 intel -inline-forceinline
+1133307_1;1133307;ncm1021;Wed Apr  3 14:08:21 CEST 2019;Wed Apr  3 14:22:24 CEST 2019;0d 0h 14m 3s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:3 gcc/8 intel -xHOST
+1133727_1;1133727;ncm0688;Wed Apr  3 14:17:35 CEST 2019;Wed Apr  3 14:31:32 CEST 2019;0d 0h 13m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:4 gcc/8 intel -ipo
+1133934_1;1133934;ncm0968;Wed Apr  3 14:22:16 CEST 2019;Wed Apr  3 14:34:27 CEST 2019;0d 0h 12m 11s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:5 gcc/8 intel -fast
+1133935_1;1133935;nrm039;Wed Apr  3 14:28:28 CEST 2019;Wed Apr  3 14:39:27 CEST 2019;0d 0h 10m 59s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:6 gcc/8 intel -inline-forceinline -fast
+1134995_1;1134995;nrm039;Wed Apr  3 14:40:57 CEST 2019;Wed Apr  3 14:53:40 CEST 2019;0d 0h 12m 43s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:7 gcc/8
+1135642_1;1135642;ncm0599;Wed Apr  3 15:01:55 CEST 2019;Wed Apr  3 15:14:34 CEST 2019;0d 0h 12m 39s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:8 gcc/8 -Ofast
+1135643_1;1135643;nrm035;Wed Apr  3 15:01:46 CEST 2019;Wed Apr  3 15:13:46 CEST 2019;0d 0h 12m 0s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:9 gcc/8 -march=native
+119624_1;119624;ncm0323;Mon Feb  4 09:10:57 CET 2019;Mon Feb  4 09:13:41 CET 2019;0d 0h 2m 44s;;24;20G;;1e-4;0;no;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+119637_1;;;;;;;;;;1e-5;0;no;
+119637_1_1;;;;;;;;;;1e-5;0;no;
+119637_1_2;11937;nrm146;Tue Feb 12 06:29:40 CET 2019;Wed Feb 13 17:22:33 CET 2019;1d 10h 52m 53s;;48;50G;1589.0 MB;1e-5;0;yes;idk parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+119751_1;119751;ncm0441;Mon Feb  4 13:42:59 CET 2019;Mon Feb  4 13:53:22 CET 2019;0d 0h 10m 23s;;24;20G;3106.5 MB;1e-5;-1;yes;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+120023_1;120023;ncm0324;Mon Feb  4 14:18:39 CET 2019;;;slurmstepd: error: *** JOB 120023 ON ncm0324 CANCELLED AT 2019-02-04T14:48:54 DUE TO TIME LIMIT ***;24;20G;;1e-5;0;no;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+120396_1;120396;ncm0320;Mon Feb  4 16:08:37 CET 2019;;;slurmstepd: error: *** JOB 120396 ON ncm0320 CANCELLED AT 2019-02-04T16:38:26 DUE TO TIME LIMIT ***;1;20G;;1e-4;0;no;parallelisation outer loop (in Simulation.h(PredefinedNucleiList::SpreadInElement) instead of in Element.ccp (ChangeCellToSolid))
+1249279_1;1249279;ncm0245;Wed Apr 10 10:32:41 CEST 2019;Wed Apr 10 10:42:38 CEST 2019;0d 0h 9m 57s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:7 intel -inline-forceinline -xHost
+1249285_1;1249285;ncm0633;Wed Apr 10 10:32:15 CEST 2019;Wed Apr 10 10:43:32 CEST 2019;0d 0h 11m 17s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:1 intel
+1249286_1;1249286;ncm0231;Wed Apr 10 10:34:04 CEST 2019;Wed Apr 10 10:44:02 CEST 2019;0d 0h 9m 58s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:2 intel -inline-forceinline
+1249287_1;1249287;ncm0233;Wed Apr 10 10:32:13 CEST 2019;Wed Apr 10 10:43:01 CEST 2019;0d 0h 10m 48s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:3 intel -xHOST
+1249288_1;1249288;ncm0234;Wed Apr 10 10:32:51 CEST 2019;Wed Apr 10 10:46:54 CEST 2019;0d 0h 14m 3s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:4 intel -ipo
+1249289_1;1249289;ncm0236;Wed Apr 10 10:32:39 CEST 2019;Wed Apr 10 10:44:14 CEST 2019;0d 0h 11m 35s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:5 intel -fast
+1249290_1;1249290;ncm0241;Wed Apr 10 10:35:45 CEST 2019;Wed Apr 10 10:45:16 CEST 2019;0d 0h 9m 31s;;48;0G;;1e-5;0;yes;  Compiler and Flag TestArray ID:6 intel -inline-forceinline -fast
+1249621_1;1249621;ncm0222;Wed Apr 10 10:58:09 CEST 2019;Wed Apr 10 11:11:40 CEST 2019;0d 0h 13m 31s;;48;0G;;1e-5;0;yes;removed try catch
+1250867_1;1250867;ncm0754;Wed Apr 10 12:23:28 CEST 2019;Wed Apr 10 12:36:59 CEST 2019;0d 0h 13m 31s;;48;0G;;1e-5;0;yes;with try catch
+1250874_1;1250874;ncm0753;Wed Apr 10 12:27:41 CEST 2019;Wed Apr 10 12:37:38 CEST 2019;0d 0h 9m 57s;;48;0G;;1e-5;0;yes;without try catch luster18
+1250896_1;1250896;ncm0831;Wed Apr 10 12:45:10 CEST 2019;Wed Apr 10 12:55:13 CEST 2019;0d 0h 10m 3s;;48;0G;;1e-5;0;yes;with try catch luster18
+1265395_1;1265395;ncm0697;Thu Apr 11 10:20:04 CEST 2019;;;    35800 ms of the calculation done (54.85% solid, 88873 spherulites) (WTime: 603.34947slurmstepd: error: *** JOB 1265395 ON ncm0697 CANCELLED AT 2019-04-11T10:31:18 ***;48;0G;;1e-5;-1;no;test different cache_number_entries
+1265455_1;1265455;ncm0145;Thu Apr 11 10:47:47 CEST 2019;;;    35800 ms of the calculation done (54.83% solid, 89077 spherulites) (WTime: 605.29779slurmstepd: error: *** JOB 1265455 ON ncm0145 CANCELLED AT 2019-04-11T10:59:06 ***;48;0G;;1e-5;-1;no;test different cache_number_entries
+1460416_1;1460416;ncm0847;Wed Apr 24 10:37:29 CEST 2019;Wed Apr 24 10:37:33 CEST 2019;0d 0h 0m 4s;  -> Creating predefined nuclei distributions...memusage: Warning: Child process killed by signal 11;48;0G;1369.8 MB;1e-5;120;no;test different cache_number_entries
+1468408_1;1468408;nrm077;Wed Apr 24 13:20:16 CEST 2019;Wed Apr 24 13:44:54 CEST 2019;0d 0h 24m 38s;;48;0G;;1e-5;-1;yes;Vtune mc
+1468478_1;1468478;nrm150;Wed Apr 24 13:22:55 CEST 2019;Wed Apr 24 13:28:53 CEST 2019;0d 0h 5m 58s;;48;0G;;1e-5;-1;yes;Vtune hs intel
+1468511_1;1468511;nrm151;Wed Apr 24 13:23:24 CEST 2019;Wed Apr 24 13:27:58 CEST 2019;0d 0h 4m 34s;;48;0G;;1e-5;-1;yes;Vtune hs gcc
+1600230_1;1600230;nrm165;Thu May  2 14:22:38 CEST 2019;Thu May  2 14:32:31 CEST 2019;0d 0h 9m 53s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1600381_1;1600381;nrm207;Thu May  2 12:53:35 CEST 2019;Thu May  2 14:15:15 CEST 2019;0d 1h 21m 40s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1600607_1;1600607;nrm165;Thu May  2 12:58:16 CEST 2019;Thu May  2 13:44:11 CEST 2019;0d 0h 45m 55s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1600734_1;1600734;nrm122;Thu May  2 13:01:11 CEST 2019;Thu May  2 13:34:11 CEST 2019;0d 0h 33m 0s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1600831_1;1600831;nrm116;Thu May  2 13:02:41 CEST 2019;Thu May  2 13:28:59 CEST 2019;0d 0h 26m 18s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1600898_1;1600898;nrm113;Thu May  2 13:04:16 CEST 2019;Thu May  2 13:23:31 CEST 2019;0d 0h 19m 15s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1601161_1;1601161;nrm123;Thu May  2 13:10:03 CEST 2019;Thu May  2 13:25:33 CEST 2019;0d 0h 15m 30s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1601728_1;1601728;nrm016;Thu May  2 13:20:45 CEST 2019;Thu May  2 13:33:54 CEST 2019;0d 0h 13m 9s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1602274_1;1602274;nrm122;Thu May  2 13:39:43 CEST 2019;Thu May  2 13:52:06 CEST 2019;0d 0h 12m 23s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1602275_1;1602275;nrm151;Thu May  2 13:39:39 CEST 2019;Thu May  2 13:50:54 CEST 2019;0d 0h 11m 15s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1602941_1;1602941;nrm067;Thu May  2 13:46:38 CEST 2019;Thu May  2 13:57:42 CEST 2019;0d 0h 11m 4s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1603152_1;1603152;nrm165;Thu May  2 13:48:19 CEST 2019;Thu May  2 13:59:09 CEST 2019;0d 0h 10m 50s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1603521_1;1603521;nrm165;Thu May  2 14:07:59 CEST 2019;Thu May  2 14:18:25 CEST 2019;0d 0h 10m 26s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1603617_1;1603617;nrm128;Thu May  2 14:11:40 CEST 2019;Thu May  2 14:21:42 CEST 2019;0d 0h 10m 2s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest
+1607024_1;1607024;ncm0930;Thu May  2 16:52:40 CEST 2019;Thu May  2 17:02:38 CEST 2019;0d 0h 9m 58s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:14 Threads: 48
+1607063_1;1607063;nrm062;Thu May  2 16:26:23 CEST 2019;Thu May  2 17:48:00 CEST 2019;0d 1h 21m 37s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:1 Threads: 1
+1607115_1;1607115;ncm0398;Thu May  2 16:37:12 CEST 2019;Thu May  2 17:23:20 CEST 2019;0d 0h 46m 8s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:2 Threads: 2
+1607206_1;1607206;nrm100;Thu May  2 16:50:54 CEST 2019;Thu May  2 17:23:57 CEST 2019;0d 0h 33m 3s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:3 Threads: 3
+1607212_1;1607212;ncm0265;Thu May  2 16:53:45 CEST 2019;Thu May  2 17:20:09 CEST 2019;0d 0h 26m 24s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:4 Threads: 4
+1607213_1;1607213;ncm0278;Thu May  2 16:53:50 CEST 2019;Thu May  2 17:13:09 CEST 2019;0d 0h 19m 19s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:5 Threads: 6
+1607214_1;1607214;ncm0436;Thu May  2 16:52:41 CEST 2019;Thu May  2 17:08:11 CEST 2019;0d 0h 15m 30s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:6 Threads: 8
+1607215_1;1607215;ncm0536;Thu May  2 16:52:48 CEST 2019;Thu May  2 17:05:59 CEST 2019;0d 0h 13m 11s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:7 Threads: 10
+1607216_1;1607216;ncm0548;Thu May  2 16:53:47 CEST 2019;Thu May  2 17:06:13 CEST 2019;0d 0h 12m 26s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:8 Threads: 12
+1607217_1;1607217;ncm0579;Thu May  2 16:52:46 CEST 2019;Thu May  2 17:04:02 CEST 2019;0d 0h 11m 16s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:9 Threads: 16
+1607218_1;1607218;ncm0658;Thu May  2 16:53:57 CEST 2019;Thu May  2 17:05:03 CEST 2019;0d 0h 11m 6s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:10 Threads: 20
+1607219_1;1607219;ncm0686;Thu May  2 16:52:43 CEST 2019;Thu May  2 17:03:32 CEST 2019;0d 0h 10m 49s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:11 Threads: 24
+1607220_1;1607220;ncm0753;Thu May  2 16:52:42 CEST 2019;Thu May  2 17:03:10 CEST 2019;0d 0h 10m 28s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:12 Threads: 32
+1607221_1;1607221;ncm0800;Thu May  2 16:52:48 CEST 2019;Thu May  2 17:02:55 CEST 2019;0d 0h 10m 7s;;48;0G;;1e-5;0;yes; Skalierbarkeitstest Array ID:13 Threads: 40
+1617096_1;1617096;ncm0702;Fri May  3 13:41:48 CEST 2019;Fri May  3 13:52:01 CEST 2019;0d 0h 10m 13s;;48;0G;;1e-5;0;yes;Test without vectorisation
+1823833_1;1823833;ncm0103;Wed May  8 10:21:47 CEST 2019;Wed May  8 10:31:42 CEST 2019;0d 0h 9m 55s;;48;0G;;1e-5;0;yes;Test precalculation fix
+1823961_1;1823961;ncm0246;Wed May  8 10:25:52 CEST 2019;Wed May  8 10:35:50 CEST 2019;0d 0h 9m 58s;;48;0G;;1e-5;120;yes;Test precalculation fix
+1824113_1;1824113;ncm0183;Wed May  8 10:30:00 CEST 2019;Wed May  8 10:40:04 CEST 2019;0d 0h 10m 4s;;48;0G;;1e-5;-1;yes;Test precalculation fix
+1827973_1;1827973;ncm0469;Wed May  8 12:15:22 CEST 2019;Wed May  8 12:18:57 CEST 2019;0d 0h 3m 35s;;48;0G;;1e-5;-1;yes;Test precalculation fix with broken HasPrecalculatedValues
+1828097_1;1828097;ncm0238;Wed May  8 12:18:05 CEST 2019;Wed May  8 12:27:56 CEST 2019;0d 0h 9m 51s;;48;0G;;1e-5;0;yes;Test precalculation fix with broken HasPrecalculatedValues
+1831554_1;1831554;ncm0275;Wed May  8 14:32:50 CEST 2019;Wed May  8 14:37:06 CEST 2019;0d 0h 4m 16s;;48;0G;;1e-5;120;yes;Test precalculation fix fix
+188517_1;188517;ncm0148;Mon Feb 18 10:02:10 CET 2019;;;slurmstepd: error: *** JOB 188517 ON ncm0148 CANCELLED AT 2019-02-18T11:00:49 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;without parallelesiation of loop in Element::ChangeCellToSolid 
+194666_1;194666;ncm0022;Tue Feb 19 10:23:55 CET 2019;;;Spherulite ID:1417slurmstepd: error: *** JOB 194666 ON ncm0022 CANCELLED AT 2019-02-19T10:44:19 ***;24;50G;;2e-6;0;no;with parallelesiation of loop in Element::ChangeCellToSolid
+197186_1;197186;ncm0397;Tue Feb 19 14:02:09 CET 2019;Tue Feb 19 14:04:36 CET 2019;0d 0h 2m 27s;;1;20G;;1e-4;0;no;VTune Threading analysis
+197246_1;197246;ncm0288;Tue Feb 19 14:25:37 CET 2019;;;    22000 ms of the calculation done (32.06% solid, 61683 slurmstepd: error: *** JOB 197246 ON ncm0288 CANCELLED AT 2019-02-19T15:24:25 DUE TO TIME LIMIT ***;1;20G;;1e-5;0;no;VTune Threading analysis
+197259_1;197259;ncm0008;Tue Feb 19 14:43:25 CET 2019;;;slurmstepd: error: *** JOB 197259 ON ncm0008 CANCELLED AT 2019-02-19T16:45:59 ***;24;50G;;2e-6;0;no;VTune
+197274_1;197274;ncm0184;Tue Feb 19 14:58:17 CET 2019;;;slurmstepd: error: *** JOB 197274 ON ncm0184 CANCELLED AT 2019-02-19T15:56:25 DUE TO TIME LIMIT ***;1;20G;;1e-5;0;no;VTune Threading analysis
+198181_1;198181;ncm0065;Tue Feb 19 16:37:29 CET 2019;Tue Feb 19 18:29:33 CET 2019;0d 1h 52m 4s;;1;50G;;1e-5;0;yes;PerfReport
+198192_1;198192;ncm0008;Tue Feb 19 16:43:58 CET 2019;Tue Feb 19 18:25:30 CET 2019;0d 1h 41m 32s;;1;50G;1663.3 MB;1e-5;0;yes;guided scheduling
+198759_1;198759;ncm0016;Tue Feb 19 16:51:18 CET 2019;Tue Feb 19 18:31:42 CET 2019;0d 1h 40m 24s;;1;50G;;1e-5;0;yes;VTune
+198952_1;198952;ncm0008;Tue Feb 19 16:54:29 CET 2019;Tue Feb 19 18:35:52 CET 2019;0d 1h 41m 23s;;1;50G;1663.4 MB;1e-5;0;yes;dynamic scheduling
+198959_1;198959;ncm0008;Tue Feb 19 17:02:15 CET 2019;Tue Feb 19 18:43:59 CET 2019;0d 1h 41m 44s;;1;50G;1620.5 MB;1e-5;0;yes;dynamic, 50 scheduling
+199837_1;199837;ncm0039;Wed Feb 20 08:46:03 CET 2019;;;;1;50G;;1e-5;0;yes;static scheduling
+199869_1;199869;ncm0144;Wed Feb 20 09:23:20 CET 2019;Wed Feb 20 10:00:13 CET 2019;0d 0h 36m 53s;;24;50G;;1e-5;0;yes;VTune(static scheduling)
+199899_1;199899;ncm0356;Wed Feb 20 09:25:34 CET 2019;Wed Feb 20 09:39:04 CET 2019;0d 0h 13m 30s;;24;50G;1743.5 MB;1e-5;0;yes;static scheduling
+199901_1;199901;ncm0400;Wed Feb 20 09:27:11 CET 2019;Wed Feb 20 09:40:04 CET 2019;0d 0h 12m 53s;;24;50G;1738.8 MB;1e-5;0;yes;guided scheduling
+199902_1;199902;ncm0400;Wed Feb 20 09:28:29 CET 2019;Wed Feb 20 09:41:20 CET 2019;0d 0h 12m 51s;;24;50G;1734.2 MB;1e-5;0;yes;dynamic scheduling
+199904_1;199904;ncm0359;Wed Feb 20 09:42:31 CET 2019;;;slurmstepd: error: *** JOB 199904 ON ncm0359 CANCELLED AT 2019-02-20T14:40:08 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;dynamic, 50 scheduling
+20190503_1;;;;;;;;;;1e-5;0;no;
+20190503_1_1;;;;;;;;;;1e-5;0;no;
+20190503_1_2;;;;;;;;;;1e-5;0;no;
+20190503_1_3;;;;;;;;;;1e-5;0;no;
+20190507_1;;;;;;;;;;1e-5;0;no;
+20190507_1_1;;;;;;;;;;1e-5;0;yes;
+20190507_1_2;;;;;;;;;;1e-5;0;yes;
+20190508_1;;;;;;;;;;1e-5;0;no;
+20190508_1_1;;;;;;;;;;1e-5;0;no;
+20190508_1_2;;;;;;;;;;1e-5;0;no;
+20190508_1_3;;;;;;;;;;1e-5;0;no;
+20190508_1_4;;;;;;;;;;1e-5;0;no;
+20190508_1_5;;;;;;;;;;1e-5;0;no;
+20190508_1_6;;;;;;;;;;1e-5;-1;no;
+20190508_1_7;;;;;;;;;;1e-5;69;no;
+211458_1;211458;ncm0068;Thu Feb 21 15:57:21 CET 2019;Thu Feb 21 16:16:05 CET 2019;0d 0h 18m 44s;;24;50G;;1e-5;0;yes;test after optimisation in WriteResultEvent::WriteVtkFile
+211961_1;211961;ncm0066;Thu Feb 21 16:16:13 CET 2019;Thu Feb 21 16:20:22 CET 2019;0d 0h 4m 9s;;24;50G;;1e-5;0;no;test after optimisation in WriteResultEvent::WriteVtkFile with parallel for
+224953_1;224953;ncm1011;Fri Feb 22 08:40:41 CET 2019;Fri Feb 22 08:45:18 CET 2019;0d 0h 4m 37s;;24;50G;;1e-5;0;no;debug
+226452_1;226452;ncm0068;Fri Feb 22 10:58:18 CET 2019;Fri Feb 22 11:02:22 CET 2019;0d 0h 4m 4s;memusage: Warning: Child process killed by signal 11;24;50G;161.8 MB;1e-5;0;no;test
+226546_1;226546;ncm0068;Fri Feb 22 11:04:19 CET 2019;Fri Feb 22 11:23:55 CET 2019;0d 0h 19m 36s;;24;50G;1668.5 MB;1e-5;0;yes;test
+227230_1;227230;ncm0099;Fri Feb 22 12:48:17 CET 2019;Fri Feb 22 13:07:00 CET 2019;0d 0h 18m 43s;;24;50G;1675.1 MB;1e-5;0;yes;test
+227284_1;227284;ncm0006;Fri Feb 22 14:21:05 CET 2019;;;slurmstepd: error: *** JOB 227284 ON ncm0006 CANCELLED AT 2019-02-23T00:20:28 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;Inspector
+231918_1;231918;ncm0440;Fri Feb 22 16:21:35 CET 2019;Fri Feb 22 16:41:57 CET 2019;0d 0h 20m 22s;;24;50G;1670.9 MB;1e-5;0;yes;smal test fpr correctness after removing mutexes
+232214_1;232214;ncm0503;Fri Feb 22 16:47:35 CET 2019;Fri Feb 22 17:16:45 CET 2019;0d 0h 29m 10s;;24;50G;;1e-5;0;yes;VTune
+232217_1;232217;ncm0503;Fri Feb 22 16:50:47 CET 2019;;;slurmstepd: error: *** JOB 232217 ON ncm0503 CANCELLED AT 2019-02-23T16:48:32 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;ScoreP
+232293_1;232293;ncm0553;Fri Feb 22 16:50:16 CET 2019;Fri Feb 22 17:11:09 CET 2019;0d 0h 20m 53s;;24;50G;;1e-5;0;yes;PerfReport
+232659_1;232659;ncm0497;Fri Feb 22 16:50:42 CET 2019;;;    22000 ms of the calculation done (32.16% solid, 62539slurmstepd: error: *** JOB 232659 ON ncm0497 CANCELLED AT 2019-02-23T16:50:02 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;Inspector
+237646_1;237646;ncm0245;Mon Feb 25 08:38:44 CET 2019;Wed Feb 27 20:59:35 CET 2019;2d 12h 20m 51s;;24;50G;;1e-5;0;yes;Inspector
+237647_1;237647;ncm1010;Mon Feb 25 08:41:05 CET 2019;;;slurmstepd: error: *** JOB 237647 ON ncm1010 CANCELLED AT 2019-03-01T08:39:25 DUE TO TIME LIMIT ***;24;50G;;1e-5;0;no;ScoreP
+237965_1;237965;ncm0518;Mon Feb 25 12:20:56 CET 2019;Mon Feb 25 12:34:01 CET 2019;0d 0h 13m 5s;;24;50G;1676.6 MB;1e-5;0;yes;exclusive test
+238236_1;238236;ncm0459;Mon Feb 25 13:07:24 CET 2019;Mon Feb 25 13:20:55 CET 2019;0d 0h 13m 31s;;24;50G;1672.4 MB;1e-5;0;yes;exclusive test
+238797_1;238797;ncm0461;Mon Feb 25 13:34:31 CET 2019;Mon Feb 25 13:47:47 CET 2019;0d 0h 13m 16s;;24;50G;1739.1 MB;1e-5;0;yes;exclusive test old version
+238798_1;238798;ncm0516;Mon Feb 25 13:34:36 CET 2019;Mon Feb 25 13:47:55 CET 2019;0d 0h 13m 19s;;24;50G;1738.2 MB;1e-5;0;yes;exclusive test old version
+238853_1;238853;ncm0461;Mon Feb 25 13:51:37 CET 2019;Mon Feb 25 14:05:10 CET 2019;0d 0h 13m 33s;;24;50G;1744.3 MB;1e-5;0;yes;exclusive test old version
+239332_1;239332;ncm0461;Mon Feb 25 14:17:43 CET 2019;Mon Feb 25 14:31:45 CET 2019;0d 0h 14m 2s;;24;50G;1734.8 MB;1e-5;0;yes;exclusive test new inner, old outer
+253598_1;253598;ncm0458;Tue Feb 26 12:10:40 CET 2019;Tue Feb 26 12:34:12 CET 2019;0d 0h 23m 32s;;24;50G;1683.8 MB;1e-5;0;yes;test
+256001_1;256001;ncm0032;Tue Feb 26 12:41:45 CET 2019;Tue Feb 26 13:03:57 CET 2019;0d 0h 22m 12s;;24;50G;1676.8 MB;1e-5;0;yes;test
+256030_1;256030;ncm0542;Tue Feb 26 13:13:29 CET 2019;Tue Feb 26 13:33:03 CET 2019;0d 0h 19m 34s;;24;50G;1655.6 MB;1e-5;0;yes;test
+258040_1;258040;ncm0425;Tue Feb 26 13:42:10 CET 2019;Tue Feb 26 13:58:21 CET 2019;0d 0h 16m 11s;;24;50G;1682.3 MB;1e-5;0;yes;test
+260210_1;260210;ncm0400;Tue Feb 26 15:39:33 CET 2019;Tue Feb 26 15:59:13 CET 2019;0d 0h 19m 40s;;12;50G;1675.0 MB;1e-5;0;yes;exclusive  0,5 threads/core at 1 socket (2 SNC NUMA Nodes)
+260211_1;260211;ncm0584;Tue Feb 26 15:39:49 CET 2019;Tue Feb 26 15:53:42 CET 2019;0d 0h 13m 53s;;24;50G;1675.8 MB;1e-5;0;yes;exclusive  1 threads/core at 1 socket (2 SNC NUMA Nodes)
+260220_1;260220;ncm0726;Tue Feb 26 15:40:35 CET 2019;Tue Feb 26 15:54:30 CET 2019;0d 0h 13m 55s;;48;50G;1690.0 MB;1e-5;0;yes;exclusive  1 thread/core
+260364_1;260364;ncm0521;Tue Feb 26 15:46:31 CET 2019;Tue Feb 26 16:00:41 CET 2019;0d 0h 14m 10s;;24;50G;1683.1 MB;1e-5;0;yes;exclusive  1 threads/core at 1 socket
+260367_1;260367;ncm0938;Tue Feb 26 15:46:58 CET 2019;Tue Feb 26 15:59:48 CET 2019;0d 0h 12m 50s;;48;50G;1689.4 MB;1e-5;0;yes;exclusive  1 thread/core
+260380_1;260380;ncm0943;Tue Feb 26 15:47:32 CET 2019;Tue Feb 26 16:04:45 CET 2019;0d 0h 17m 13s;;96;50G;1704.1 MB;1e-5;0;yes;exclusive  2 threads/core
+268955_1;268955;ncm0364;Wed Feb 27 08:27:29 CET 2019;Wed Feb 27 08:42:28 CET 2019;0d 0h 14m 59s;;24;50G;1679.8 MB;1e-5;0;yes;exclusive NUMA places test
+268967_1;268967;ncm0864;Wed Feb 27 08:28:07 CET 2019;Wed Feb 27 08:42:46 CET 2019;0d 0h 14m 39s;;48;50G;1690.6 MB;1e-5;0;yes;exclusive NUMA places test
+273915_1;273915;ncm0429;Wed Feb 27 15:03:26 CET 2019;Wed Feb 27 15:15:41 CET 2019;0d 0h 12m 15s;;48;50G;1688.1 MB;1e-5;0;yes;test after fixing bugs
+273968_1;273968;ncm0726;Wed Feb 27 15:03:45 CET 2019;Wed Feb 27 15:17:42 CET 2019;0d 0h 13m 57s;;24;50G;1008.7 MB;1e-5;0;yes;test after fixing bugs
+273988_1;273988;ncm0073;Wed Feb 27 15:06:15 CET 2019;;;slurmstepd: error: *** JOB 273988 ON ncm0073 CANCELLED AT 2019-03-04T15:04:18 DUE TO TIME LIMIT ***;48;50G;;1e-5;0;no;ScoreP
+273999_1;273999;ncm0036;Wed Feb 27 15:07:17 CET 2019;Mon Mar  4 10:58:33 CET 2019;4d 19h 51m 16s;;48;50G;;1e-5;0;yes;Inspector
+274007_1;274007;ncm0152;Wed Feb 27 15:07:05 CET 2019;Wed Feb 27 15:27:46 CET 2019;0d 0h 20m 41s;;48;50G;;1e-5;0;yes;VTune
+274017_1;274017;ncm0714;Wed Feb 27 15:07:44 CET 2019;Wed Feb 27 15:20:52 CET 2019;0d 0h 13m 8s;;48;50G;;1e-5;0;yes;PerfReport
+276111_1;276111;ncm0939;Thu Feb 28 09:10:18 CET 2019;Thu Feb 28 09:21:53 CET 2019;0d 0h 11m 35s;;48;50G;1687.1 MB;1e-5;0;yes;task test
+276282_1;276282;ncm0535;Thu Feb 28 09:37:18 CET 2019;Thu Feb 28 09:49:01 CET 2019;0d 0h 11m 43s;;48;50G;1687.5 MB;1e-5;0;yes;task test shared
+276396_1;276396;ncm0530;Thu Feb 28 09:44:58 CET 2019;Thu Feb 28 09:56:22 CET 2019;0d 0h 11m 24s;;48;50G;1688.0 MB;1e-5;0;yes;task test dynamic storage
+278530_1;278530;ncm0177;Thu Feb 28 11:01:46 CET 2019;Thu Feb 28 11:13:46 CET 2019;0d 0h 12m 0s;;48;50G;;1e-5;0;yes;numa analysis
+278545_1;278545;ncm0035;Thu Feb 28 11:11:56 CET 2019;Thu Feb 28 11:23:57 CET 2019;0d 0h 12m 1s;;48;50G;;1e-5;0;yes;numa analysis
+283532_1;283532;ncm0469;Fri Mar  1 08:48:43 CET 2019;Fri Mar  1 08:54:43 CET 2019;0d 0h 6m 0s;;48;50G;;1e-5;-1;yes;Test with Precalculation
+352016_1;352016;ncm0938;Wed Mar  6 16:39:26 CET 2019;Wed Mar  6 16:54:59 CET 2019;0d 0h 15m 33s;;48;0G;;1e-5;0;yes;VTune Hotspots
+369945_1;369945;ncm0868;Thu Mar  7 10:42:59 CET 2019;Thu Mar  7 10:54:21 CET 2019;0d 0h 11m 22s;;48;0G;1689.8 MB;1e-5;0;yes;test
+370020_1;370020;ncm0438;Thu Mar  7 10:45:39 CET 2019;Thu Mar  7 10:57:05 CET 2019;0d 0h 11m 26s;;48;0G;1682.1 MB;1e-5;0;yes;test one critical
+371200_1;371200;ncm0981;Thu Mar  7 11:15:10 CET 2019;Thu Mar  7 11:26:30 CET 2019;0d 0h 11m 20s;;48;0G;1688.8 MB;1e-5;0;yes;test
+400747_1;400747;ncm0035;Thu Mar  7 16:41:44 CET 2019;;;;48;0G;;2e-6;0;no;test
+425753_1;425753;ncm0321;Fri Mar  8 08:34:06 CET 2019;Fri Mar  8 08:45:36 CET 2019;0d 0h 11m 30s;;48;0G;1685.1 MB;1e-5;0;yes;Random test 1
+425764_1;425764;nrm202;Fri Mar  8 08:34:31 CET 2019;Fri Mar  8 08:45:57 CET 2019;0d 0h 11m 26s;;48;0G;1684.8 MB;1e-5;0;yes;Random test 2
+425768_1;425768;nrm203;Fri Mar  8 08:34:37 CET 2019;Fri Mar  8 08:46:02 CET 2019;0d 0h 11m 25s;;48;0G;1684.3 MB;1e-5;0;yes;Random test 3
+425955_1;425955;ncm0321;Fri Mar  8 09:10:30 CET 2019;Fri Mar  8 09:21:43 CET 2019;0d 0h 11m 13s;;48;0G;1702.7 MB;1e-5;0;probably;Random test
+425959_1;425959;ncm0322;Fri Mar  8 09:10:38 CET 2019;Fri Mar  8 09:21:55 CET 2019;0d 0h 11m 17s;;48;0G;1700.5 MB;1e-5;0;probably;Random test
+428877_1;428877;ncm0994;Fri Mar  8 10:14:07 CET 2019;Fri Mar  8 10:30:29 CET 2019;0d 0h 16m 22s;;48;0G;;1e-5;0;yes;VTune tr
+458097_1;458097;ncm0438;Fri Mar  8 16:56:13 CET 2019;Fri Mar  8 17:07:40 CET 2019;0d 0h 11m 27s;;48;0G;;1e-5;0;yes;Check Number of Iterations in Simulation::UpdateElement
+458098_1;458098;ncm0461;Fri Mar  8 16:58:49 CET 2019;Sat Mar  9 07:22:04 CET 2019;0d 14h 23m 15s;;48;0G;;2e-6;0;probably;Check number of Iterations in Simulation::UpdateElement
+635061_1;635061;ncm0698;Fri Mar 15 10:14:35 CET 2019;Fri Mar 15 20:07:57 CET 2019;0d 9h 53m 22s;;48;0G;;1e-5;0;yes;ThreadSanitizer
+716467_1;716467;ncm0112;Mon Mar 18 10:14:01 CET 2019;Mon Mar 18 10:14:01 CET 2019;0d 0h 0m 0s;memusage: Warning: Child process killed by signal 11;48;0G;51.0 MB;1e-5;0;no;Tasking test
+718189_1;718189;ncm0112;Mon Mar 18 10:17:03 CET 2019;Mon Mar 18 10:17:03 CET 2019;0d 0h 0m 0s;memusage: Warning: Child process killed by signal 6;48;100G;53.1 MB;1e-5;0;no;Tasking test
+719344_1;719344;ncm0112;Mon Mar 18 10:24:23 CET 2019;Mon Mar 18 10:24:23 CET 2019;0d 0h 0m 0s;memusage: Warning: Child process killed by signal 11;48;100G;52.9 MB;1e-5;0;no;Tasking test
+722307_1;722307;ncm0311;Mon Mar 18 10:35:59 CET 2019;;;    973200 ms of the calculatislurmstepd: error: *** JOB 722307 ON ncm0311 CANCELLED AT 2019-03-18T12:19:22 ***;48;100G;;1e-5;0;no;Tasking test
+724359_1;724359;ncm0638;Mon Mar 18 11:04:25 CET 2019;Mon Mar 18 11:45:32 CET 2019;0d 0h 41m 7s;;48;100G;1786.1 MB;1e-5;0;yes;Tasking test
+730142_1;730142;ncm0311;Mon Mar 18 12:40:26 CET 2019;Mon Mar 18 12:52:00 CET 2019;0d 0h 11m 34s;;48;100G;1696.5 MB;1e-5;0;yes;Tasking test (inner only)
+733207_1;733207;ncm0548;Mon Mar 18 13:21:35 CET 2019;Mon Mar 18 14:01:45 CET 2019;0d 0h 40m 10s;;48;100G;1776.0 MB;1e-5;0;yes;Tasking test
+792526_1;792526;ncm0252;Tue Mar 19 09:08:57 CET 2019;Tue Mar 19 09:50:05 CET 2019;0d 0h 41m 8s;;48;100G;1777.2 MB;1e-5;0;yes;Tasking test
+797693_1;797693;ncm0847;Tue Mar 19 10:27:00 CET 2019;;;slurmstepd: error: *** JOB 797693 ON ncm0847 CANCELLED AT 2019-03-19T12:27:19 ***;48;100G;;1e-5;0;no;Tasking test
+798492_1;798492;ncm0603;Tue Mar 19 10:38:01 CET 2019;;;slurmstepd: error: *** JOB 798492 ON ncm0603 CANCELLED AT 2019-03-19T12:19:23 ***;48;100G;;1e-5;0;no;Tasking test
+799814_1;799814;ncm0258;Tue Mar 19 10:54:09 CET 2019;Tue Mar 19 10:54:10 CET 2019;0d 0h 0m 1s;memusage: Warning: Child process killed by signal 11;48;100G;50.8 MB;1e-5;0;no;Tasking test (more taskloops)
+806093_1;806093;ncm0900;Tue Mar 19 12:25:52 CET 2019;;;slurmstepd: error: *** JOB 806093 ON ncm0900 CANCELLED AT 2019-03-19T14:17:33 ***;48;100G;;1e-5;0;no;Only Simualtion.cpp Element distribution parallel
+812623_1;812623;ncm1008;Tue Mar 19 14:00:14 CET 2019;;;slurmstepd: error: *** JOB 812623 ON ncm1008 CANCELLED AT 2019-03-19T14:17:26 ***;48;100G;;1e-5;0;no;Comparison "taskloop" and manual task creation: taskloop
+812853_1;812853;ncm0076;Tue Mar 19 14:04:30 CET 2019;;;slurmstepd: error: *** JOB 812853 ON ncm0076 CANCELLED AT 2019-03-19T14:17:15 ***;48;100G;;1e-5;0;yes;Comparison "taskloop" and manual task creation: manuel
+870771_1;870771;ncm0727;Wed Mar 20 09:06:58 CET 2019;;;slurmstepd: error: *** JOB 870771 ON ncm0727 CANCELLED AT 2019-03-20T14:06:30 DUE TO TIME LIMIT ***;48;100G;;1e-5;0;no;Test for correctness
+886288_1;886288;ncm0385;Thu Mar 21 12:34:17 CET 2019;Thu Mar 21 12:46:58 CET 2019;0d 0h 12m 41s;;48;100G;4377.9 MB;1e-5;0;yes;Reference
+886956_1;886956;ncm0666;Thu Mar 21 12:22:50 CET 2019;Thu Mar 21 12:35:36 CET 2019;0d 0h 12m 46s;;48;100G;4379.0 MB;1e-5;0;yes;Reference
+900070_1;900070;ncm0688;Thu Mar 21 14:48:11 CET 2019;;;    519000 ms of the calculation done (99.97% solid, 131389 spherulites) (WTislurmstepd: error: *** JOB 900070 ON ncm0688 CANCELLED AT 2019-03-21T15:47:33 DUE TO TIME LIMIT ***;48;100G;;1e-5;0;yes;First tasking (tasking AddNucleus and change cell to solid taskloop)
+907467_1;907467;ncm0687;Thu Mar 21 16:37:56 CET 2019;;;    414800 ms of the calculation done (99.97% solid, 130571 spheruslurmstepd: error: *** JOB 907467 ON ncm0687 CANCELLED AT 2019-03-21T17:37:39 DUE TO TIME LIMIT ***;48;100G;;1e-5;0;no;second tasking (tasking AddNucleus (if..) and change cell to solid taskloop)
+936927_1;936927;ncm0917;Fri Mar 22 13:33:06 CET 2019;Fri Mar 22 13:33:06 CET 2019;0d 0h 0m 0s;memusage: Warning: Child process killed by signal 11;48;0G;52.7 MB;1e-5;0;no;ThreadSanitizer
+939467_1;939467;ncm0270;Fri Mar 22 17:34:57 CET 2019;Sat Mar 23 13:25:01 CET 2019;0d 19h 50m 4s;memusage: Warning: Child process killed by signal 11;48;0G;347.3 MB;1e-5;0;no;ThreadSanitizer
+939468_1;939468;ncm0176;Fri Mar 22 16:31:01 CET 2019;Fri Mar 22 17:36:06 CET 2019;0d 1h 5m 5s;;48;0G;189.3 MB;1e-5;0;no;ThreadSanitizer
+939469_1;939469;nrm174;Fri Mar 22 16:31:09 CET 2019;Fri Mar 22 17:34:20 CET 2019;0d 1h 3m 11s;;48;0G;220.2 MB;1e-5;0;no;ThreadSanitizer
+939573_1;939573;ncm0926;Fri Mar 22 16:47:57 CET 2019;Fri Mar 22 17:49:18 CET 2019;0d 1h 1m 21s;;48;0G;226.9 MB;1e-5;0;no;ThreadSanitizer
+939578_1;939578;ncm0270;Fri Mar 22 16:48:56 CET 2019;Fri Mar 22 17:33:59 CET 2019;0d 0h 45m 3s;;48;0G;220.7 MB;1e-5;0;no;ThreadSanitizer
+939597_1;939597;ncm0790;Fri Mar 22 16:55:44 CET 2019;Fri Mar 22 17:39:39 CET 2019;0d 0h 43m 55s;;48;0G;220.9 MB;1e-5;0;no;ThreadSanitizer
+939598_1;939598;nrm067;Fri Mar 22 16:55:42 CET 2019;Fri Mar 22 17:47:20 CET 2019;0d 0h 51m 38s;;48;0G;216.8 MB;1e-5;0;no;ThreadSanitizer
+939599_1;939599;nrm068;Fri Mar 22 16:55:43 CET 2019;Fri Mar 22 17:42:28 CET 2019;0d 0h 46m 45s;;48;0G;220.8 MB;1e-5;0;no;ThreadSanitizer
+939600_1;939600;nrm070;Fri Mar 22 16:55:45 CET 2019;Fri Mar 22 17:34:50 CET 2019;0d 0h 39m 5s;memusage: Warning: Child process killed by signal 11;48;0G;222.9 MB;1e-5;0;no;ThreadSanitizer
+939611_1;939611;ncm0483;Fri Mar 22 16:58:02 CET 2019;Fri Mar 22 17:35:05 CET 2019;0d 0h 37m 3s;;48;0G;221.6 MB;1e-5;0;no;ThreadSanitizer
+939618_1;939618;ncm0484;Fri Mar 22 16:58:01 CET 2019;Fri Mar 22 17:44:45 CET 2019;0d 0h 46m 44s;;48;0G;223.4 MB;1e-5;0;no;ThreadSanitizer
+939621_1;939621;ncm0896;Fri Mar 22 16:59:16 CET 2019;Fri Mar 22 17:29:12 CET 2019;0d 0h 29m 56s;;48;0G;224.2 MB;1e-5;0;no;ThreadSanitizer
+939748_1;939748;ncm0565;Fri Mar 22 17:05:05 CET 2019;Fri Mar 22 17:49:47 CET 2019;0d 0h 44m 42s;;48;0G;257.4 MB;1e-5;0;no;ThreadSanitizer
+939762_1;939762;ncm0761;Fri Mar 22 17:09:05 CET 2019;Fri Mar 22 17:36:16 CET 2019;0d 0h 27m 11s;;48;0G;225.0 MB;1e-5;0;no;ThreadSanitizer
+939763_1;939763;ncm0763;Fri Mar 22 17:09:03 CET 2019;Fri Mar 22 17:58:02 CET 2019;0d 0h 48m 59s;;48;0G;231.5 MB;1e-5;0;no;ThreadSanitizer
+939775_1;939775;ncm0607;Fri Mar 22 17:11:35 CET 2019;Fri Mar 22 18:00:36 CET 2019;0d 0h 49m 1s;;48;0G;230.0 MB;1e-5;0;no;ThreadSanitizer
+939795_1;939795;ncm0330;Fri Mar 22 17:17:17 CET 2019;Fri Mar 22 18:02:20 CET 2019;0d 0h 45m 3s;;48;0G;227.9 MB;1e-5;0;no;ThreadSanitizer
+939852_1;939852;ncm0896;Fri Mar 22 17:30:13 CET 2019;Fri Mar 22 18:15:37 CET 2019;0d 0h 45m 24s;;48;0G;230.2 MB;1e-5;0;no;ThreadSanitizer
+939856_1;939856;ncm0908;Fri Mar 22 17:31:11 CET 2019;Fri Mar 22 18:15:51 CET 2019;0d 0h 44m 40s;;48;0G;230.1 MB;1e-5;0;no;ThreadSanitizer
+939867_1;939867;ncm0333;Fri Mar 22 17:35:28 CET 2019;Fri Mar 22 23:09:12 CET 2019;0d 5h 33m 44s;;48;0G;291.1 MB;1e-5;0;no;ThreadSanitizer
+939868_1;939868;ncm0334;Fri Mar 22 17:35:05 CET 2019;Fri Mar 22 18:18:18 CET 2019;0d 0h 43m 13s;;48;0G;230.6 MB;1e-5;0;no;ThreadSanitizer
+939869_1;939869;ncm0344;Fri Mar 22 17:35:09 CET 2019;Fri Mar 22 18:45:28 CET 2019;0d 1h 10m 19s;memusage: Warning: Child process killed by signal 11;48;0G;267.7 MB;1e-5;0;no;ThreadSanitizer
+939870_1;939870;ncm0345;Fri Mar 22 17:33:53 CET 2019;Fri Mar 22 18:08:37 CET 2019;0d 0h 34m 44s;;48;0G;231.7 MB;1e-5;0;no;ThreadSanitizer
+939871_1;939871;ncm0350;Fri Mar 22 17:33:53 CET 2019;Fri Mar 22 21:24:39 CET 2019;0d 3h 50m 46s;;48;0G;291.1 MB;1e-5;0;no;ThreadSanitizer
+939872_1;939872;ncm0351;Fri Mar 22 17:33:51 CET 2019;;;slurmstepd: error: *** JOB 939872 ON ncm0351 CANCELLED AT 2019-03-23T17:33:21 DUE TO TIME LIMIT ***;48;0G;;1e-5;0;no;ThreadSanitizer
+939873_1;939873;ncm0352;Fri Mar 22 17:35:25 CET 2019;Sat Mar 23 00:48:50 CET 2019;0d 7h 13m 25s;;48;0G;297.2 MB;1e-5;0;no;ThreadSanitizer
